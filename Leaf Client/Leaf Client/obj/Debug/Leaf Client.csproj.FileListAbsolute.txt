@@ -1,0 +1,14 @@
+C:\Users\gramb\source\repos\Leaf Client\Leaf Client\bin\Debug\Leaf Client.exe.config
+C:\Users\gramb\source\repos\Leaf Client\Leaf Client\bin\Debug\Leaf Client.exe
+C:\Users\gramb\source\repos\Leaf Client\Leaf Client\bin\Debug\Leaf Client.pdb
+C:\Users\gramb\source\repos\Leaf Client\Leaf Client\obj\Debug\Leaf_Client.Properties.Resources.resources
+C:\Users\gramb\source\repos\Leaf Client\Leaf Client\obj\Debug\Leaf Client.csproj.GenerateResource.cache
+C:\Users\gramb\source\repos\Leaf Client\Leaf Client\obj\Debug\Leaf Client.csproj.CoreCompileInputs.cache
+C:\Users\gramb\source\repos\Leaf Client\Leaf Client\obj\Debug\Leaf Client.exe
+C:\Users\gramb\source\repos\Leaf Client\Leaf Client\obj\Debug\Leaf Client.pdb
+C:\Users\gramb\source\repos\Leaf Client\Leaf Client\bin\Debug\WeAreDevs_API.dll
+C:\Users\gramb\source\repos\Leaf Client\Leaf Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gramb\source\repos\Leaf Client\Leaf Client\obj\Debug\Leaf Client.csproj.CopyComplete
+C:\Users\gramb\source\repos\Leaf Client\Leaf Client\bin\Debug\FastColoredTextBox.dll
+C:\Users\gramb\source\repos\Leaf Client\Leaf Client\obj\Debug\Leaf_Client.Main.resources
+C:\Users\gramb\source\repos\Leaf Client\Leaf Client\obj\Debug\Leaf Client.csproj.AssemblyReference.cache
